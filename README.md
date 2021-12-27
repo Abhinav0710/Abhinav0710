@@ -1,5 +1,3 @@
-<a href="#"><p style="text-align:center;"><img width="50%"  height="200px" src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height="170px"/></p>
-</a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kumar Abhinav</h1>
 <h4 align="center">I am a passionate developer who likes to learn new tech stuffs.I have been doing full stack development for a while now.I solve Data Structures and Algorithms problems and also like doing Competitive Programming.</h3>
