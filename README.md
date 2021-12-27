@@ -24,7 +24,6 @@
 -  **I love playing Cricket and Football.**
 
 ## 🚀 Languages and Tools:
-<hr>
 
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
