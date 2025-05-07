@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kumar Abhinav</h1>
-<h4 align="center">I am a passionate developer who likes to learn new tech stuffs.I have been doing full stack development for a while now.I solve Data Structures and Algorithms problems and also like doing Competitive Programming.</h3>
+<h4 align="center">I am a passionate developer who likes to learn new tech stuffs.I have been doing Backend development in Java,Springboot for 2 years now.I solve Data Structures and Algorithms problems and also like doing Competitive Programming.</h3>
 
 <br/>
 <hr/>
@@ -8,12 +8,12 @@
 
 ## 🙋‍♂️ About Me
 
-- I am pursuing my Bachelor's Degree in Computer Science and Engineering from Birla Institute of Technology,Mesra.
+- I have my Bachelor's Degree in Computer Science and Engineering from Birla Institute of Technology,Mesra.
 
--  I am currently learning **Full-Stack Web Development.**
+-  I am currently a Backend developer open to work.**
 -  How to reach me **abhinavdlw95@gmail.com**
 
-- I am still trying to get better in Data Structure and Algorithm.
+- I am still trying to get better in LLD and HLDs.
 
 - My profiles on various Coding Platforms:
   - [Codechef](https://www.codechef.com/users/abhinav0710)
